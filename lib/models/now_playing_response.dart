@@ -1,10 +1,12 @@
+// https://app.quicktype.io/
 // To parse this JSON data, do
 //
 //     final nowPlayingResponse = nowPlayingResponseFromMap(jsonString);
 
 import 'dart:convert';
-
 import 'movie.dart';
+
+
 
 class NowPlayingResponse {
   
